@@ -58,7 +58,7 @@ cd my-vue-project
 To start the development server and see your Vue.js application in action, run the following command:
 
 ```bash
-npm run serve
+npm run dev
 ```
 
 This command compiles your Vue.js application and starts a local development server. Open your web browser and visit http://localhost:8080 (or the URL shown in the terminal) to see your Vue.js application running.
